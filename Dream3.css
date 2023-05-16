@@ -8,12 +8,15 @@ input{
     margin:10px;
     border-radius:30px;
     text-align:center;
+    background:white;
     border:none;
     width:40%;
 }
 
 form{
     text-align:center;
+    background:rgb(173, 173, 255);
+    margin:50px;
 }
 h1{
     text-align:center;
